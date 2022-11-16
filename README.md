@@ -1,7 +1,7 @@
 # My README!
 
 ## 👋 Hi, I’m @Linkaje!
-I'm a software engineer and cibersecurity master from Seville, Spain, and I was born the 8th of December 1998.
+I'm a software engineer and cybersecurity master from Seville, Spain, and I was born the 8th of December 1998.
 
 ## 👀 I’m interested in ...
 I'm interested in a lot of things. I love music, hanging out with friends, sports, videogames, coding...
